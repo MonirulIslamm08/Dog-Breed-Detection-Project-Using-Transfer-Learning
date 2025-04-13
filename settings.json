@@ -1,0 +1,10 @@
+{
+  "python.analysis.extraPaths": [
+    "./myenv/Lib/site-packages"
+  ],
+  "python.defaultInterpreterPath": "./myenv/Scripts/python.exe",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none"
+  },
+  "python.analysis.logLevel": "Trace"
+}
